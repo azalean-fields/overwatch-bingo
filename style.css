@@ -1,0 +1,38 @@
+body {
+    background-color: #121318;
+    color: white;
+    font-family: 'Hanken Grotesk';
+}
+
+.title {
+    text-align: center;
+}
+
+button {
+    background-color: #ff77ff;
+    width: 125px;
+    height: 125px;
+    font-size: 18px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+}
+span {
+    margin: 0;
+    padding: 0;
+}
+
+.bingo {
+    text-align: center;
+    right: 50%;
+}
+
+.green {
+    background-color: #0afc0e;
+}
