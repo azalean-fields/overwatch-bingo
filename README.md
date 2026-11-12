@@ -5,4 +5,4 @@ a super simple bingo i put together in html and a few lines of css and js. predo
 download the repo as a zip, extract it and open the html file in your browser of choice.
 
 ## Customization
-the entire bingo is stored in a table stored in a div while its styles are in css. from there you can change it to your needs
+the entire bingo is stored in a table in a div, while the style and script are in their own files. from there you can change it to your needs
