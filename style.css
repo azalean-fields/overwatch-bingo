@@ -8,7 +8,7 @@ body {
     text-align: center;
 }
 
-button {
+.bingoOption {
     background-color: #ff77ff;
     width: 125px;
     height: 125px;
@@ -32,7 +32,10 @@ span {
     text-align: center;
     right: 50%;
 }
-
+.randomizeButton {
+    position: absolute;
+    left: 47%
+}
 .green {
     background-color: #0afc0e;
 }
